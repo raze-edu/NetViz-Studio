@@ -1,0 +1,4026 @@
+{
+  "schema_version": "2.1.0",
+  "berlin_projection_vectors": [
+    {
+      "anchor": {
+        "origin_lat": 52.52,
+        "origin_lon": 13.405,
+        "rotation_deg": 0.0
+      },
+      "m_lat": 111277.1727948808,
+      "m_lon": 67879.40187265282,
+      "cases": [
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "lat": 52.52,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "local_m": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "lat": 52.52,
+          "lon": 13.405147320095995,
+          "roundtrip_m": {
+            "x": 10.000000000033722,
+            "y": 0.0
+          }
+        },
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 15.0
+          },
+          "lat": 52.520134798536155,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 0.0,
+            "y": 14.99999999987727
+          }
+        },
+        {
+          "local_m": {
+            "x": 24.0,
+            "y": 10.0
+          },
+          "lat": 52.52008986569077,
+          "lon": 13.405353568230389,
+          "roundtrip_m": {
+            "x": 24.000000000008587,
+            "y": 9.999999999918181
+          }
+        },
+        {
+          "local_m": {
+            "x": -7.5,
+            "y": 12.25
+          },
+          "lat": 52.520110085471195,
+          "lon": 13.404889509928003,
+          "roundtrip_m": {
+            "x": -7.499999999995147,
+            "y": 12.250000000057906
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "origin_lat": 52.52,
+        "origin_lon": 13.405,
+        "rotation_deg": 37.5
+      },
+      "m_lat": 111277.1727948808,
+      "m_lon": 67879.40187265282,
+      "cases": [
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "lat": 52.52,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "local_m": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "lat": 52.519945293233675,
+          "lon": 13.405116876890249,
+          "roundtrip_m": {
+            "x": 9.999999999730452,
+            "y": 2.877875715512346e-10
+          }
+        },
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 15.0
+          },
+          "lat": 52.52010694286893,
+          "lon": 13.40513452418824,
+          "roundtrip_m": {
+            "x": -7.277822788864796e-11,
+            "y": 15.000000000152266
+          }
+        },
+        {
+          "local_m": {
+            "x": 24.0,
+            "y": 10.0
+          },
+          "lat": 52.51993999900676,
+          "lon": 13.40537018732876,
+          "roundtrip_m": {
+            "x": 23.999999999900893,
+            "y": 10.000000000186718
+          }
+        },
+        {
+          "local_m": {
+            "x": -7.5,
+            "y": 12.25
+          },
+          "lat": 52.52012836675104,
+          "lon": 13.405022203752708,
+          "roundtrip_m": {
+            "x": -7.499999999938838,
+            "y": 12.249999999928976
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "origin_lat": 52.52,
+        "origin_lon": 13.405,
+        "rotation_deg": 90.0
+      },
+      "m_lat": 111277.1727948808,
+      "m_lon": 67879.40187265282,
+      "cases": [
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "lat": 52.52,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "local_m": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "lat": 52.519910134309235,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 9.999999999918181,
+            "y": -6.123233995686667e-16
+          }
+        },
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 15.0
+          },
+          "lat": 52.52,
+          "lon": 13.405220980143993,
+          "roundtrip_m": {
+            "x": 9.184850993599206e-16,
+            "y": 14.999999999990294
+          }
+        },
+        {
+          "local_m": {
+            "x": 24.0,
+            "y": 10.0
+          },
+          "lat": 52.51978432234216,
+          "lon": 13.405147320095995,
+          "roundtrip_m": {
+            "x": 23.9999999996455,
+            "y": 10.00000000003372
+          }
+        },
+        {
+          "local_m": {
+            "x": -7.5,
+            "y": 12.25
+          },
+          "lat": 52.52006739926808,
+          "lon": 13.405180467117594,
+          "roundtrip_m": {
+            "x": -7.499999999938634,
+            "y": 12.25000000000815
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "origin_lat": 52.52,
+        "origin_lon": 13.405,
+        "rotation_deg": -125.25
+      },
+      "m_lat": 111277.1727948808,
+      "m_lon": 67879.40187265282,
+      "cases": [
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "lat": 52.52,
+          "lon": 13.405,
+          "roundtrip_m": {
+            "x": 0.0,
+            "y": -0.0
+          }
+        },
+        {
+          "local_m": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "lat": 52.52007338805747,
+          "lon": 13.404914974915199,
+          "roundtrip_m": {
+            "x": 10.000000000088587,
+            "y": -5.065281527549814e-12
+          }
+        },
+        {
+          "local_m": {
+            "x": 0.0,
+            "y": 15.0
+          },
+          "lat": 52.51992220167324,
+          "lon": 13.404819538431548,
+          "roundtrip_m": {
+            "x": 1.0916334503008329e-10,
+            "y": 14.99999999998445
+          }
+        },
+        {
+          "local_m": {
+            "x": 24.0,
+            "y": 10.0
+          },
+          "lat": 52.52012426578674,
+          "lon": 13.40467563208418,
+          "roundtrip_m": {
+            "x": 23.9999999998575,
+            "y": 10.000000000102695
+          }
+        },
+        {
+          "local_m": {
+            "x": -7.5,
+            "y": 12.25
+          },
+          "lat": 52.51988142365671,
+          "lon": 13.404916391866031,
+          "roundtrip_m": {
+            "x": -7.5000000000057705,
+            "y": 12.249999999996465
+          }
+        }
+      ]
+    }
+  ],
+  "global_projection_vectors": [
+    {
+      "site": "equator",
+      "anchor": {
+        "origin_lat": 0.0,
+        "origin_lon": 0.0,
+        "rotation_deg": 45.0
+      },
+      "m_lat": 110574.275,
+      "m_lon": 111319.34,
+      "centroid": [
+        3.4372361463619773e-05,
+        6.272656183747727e-05
+      ],
+      "cases": [
+        {
+          "local_m": {
+            "x": 12.5,
+            "y": -4.0
+          },
+          "lat": -0.00010551515612087924,
+          "lon": 5.399248360694246e-05,
+          "roundtrip_m": {
+            "x": 12.5,
+            "y": -3.999999999999999
+          }
+        },
+        {
+          "local_m": {
+            "x": -8.0,
+            "y": 19.25
+          },
+          "lat": 0.0001742598790481188,
+          "lon": 7.146064006801208e-05,
+          "roundtrip_m": {
+            "x": -8.000000000000004,
+            "y": 19.250000000000004
+          }
+        }
+      ]
+    },
+    {
+      "site": "sydney",
+      "anchor": {
+        "origin_lat": -33.8688,
+        "origin_lon": 151.2093,
+        "rotation_deg": 212.0
+      },
+      "m_lat": 110919.99508783418,
+      "m_lon": 92526.66108826073,
+      "centroid": [
+        -33.86884754822054,
+        151.20923570779993
+      ],
+      "cases": [
+        {
+          "local_m": {
+            "x": 12.5,
+            "y": -4.0
+          },
+          "lat": -33.86870969902965,
+          "lon": 151.20920834075233,
+          "roundtrip_m": {
+            "x": 12.500000001125326,
+            "y": -3.9999999993237294
+          }
+        },
+        {
+          "local_m": {
+            "x": -8.0,
+            "y": 19.25
+          },
+          "lat": -33.86898539741143,
+          "lon": 151.20926307484754,
+          "roundtrip_m": {
+            "x": -7.99999999905857,
+            "y": 19.250000000645684
+          }
+        }
+      ]
+    }
+  ],
+  "slippy_tile_vectors": [
+    {
+      "site": "berlin",
+      "lat": 52.52,
+      "lon": 13.405,
+      "zoom": 16,
+      "tile_x": 35208,
+      "tile_y": 21492,
+      "bounds": {
+        "lat_n": 52.522905940278065,
+        "lon_w": 13.4033203125,
+        "lat_s": 52.519563529257425,
+        "lon_e": 13.4088134765625
+      }
+    },
+    {
+      "site": "berlin",
+      "lat": 52.52,
+      "lon": 13.405,
+      "zoom": 18,
+      "tile_x": 140833,
+      "tile_y": 85971,
+      "bounds": {
+        "lat_n": 52.52039915585347,
+        "lon_w": 13.404693603515625,
+        "lat_s": 52.519563529257425,
+        "lon_e": 13.40606689453125
+      }
+    },
+    {
+      "site": "berlin",
+      "lat": 52.52,
+      "lon": 13.405,
+      "zoom": 19,
+      "tile_x": 281666,
+      "tile_y": 171942,
+      "bounds": {
+        "lat_n": 52.52039915585347,
+        "lon_w": 13.404693603515625,
+        "lat_s": 52.5199813445422,
+        "lon_e": 13.405380249023438
+      }
+    },
+    {
+      "site": "sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "zoom": 16,
+      "tile_x": 60294,
+      "tile_y": 39327,
+      "bounds": {
+        "lat_n": -33.86585445407185,
+        "lon_w": 151.204833984375,
+        "lat_s": -33.87041555094183,
+        "lon_e": 151.2103271484375
+      }
+    },
+    {
+      "site": "sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "zoom": 18,
+      "tile_x": 241179,
+      "tile_y": 157310,
+      "bounds": {
+        "lat_n": -33.86813503296863,
+        "lon_w": 151.20895385742188,
+        "lat_s": -33.869275299570795,
+        "lon_e": 151.2103271484375
+      }
+    },
+    {
+      "site": "sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "zoom": 19,
+      "tile_x": 482358,
+      "tile_y": 314621,
+      "bounds": {
+        "lat_n": -33.86870516817359,
+        "lon_w": 151.20895385742188,
+        "lat_s": -33.869275299570795,
+        "lon_e": 151.2096405029297
+      }
+    }
+  ],
+  "compass_angle_vectors": [
+    {
+      "anchor_rot_deg": 0.0,
+      "view_rot_deg": 0.0,
+      "azimuth_deg": 0.0,
+      "true_north_screen_cw_deg": 0.0,
+      "bearing_screen_cw_deg": 0.0
+    },
+    {
+      "anchor_rot_deg": 30.0,
+      "view_rot_deg": 0.0,
+      "azimuth_deg": 0.0,
+      "true_north_screen_cw_deg": 330.0,
+      "bearing_screen_cw_deg": 330.0
+    },
+    {
+      "anchor_rot_deg": 30.0,
+      "view_rot_deg": 30.0,
+      "azimuth_deg": 0.0,
+      "true_north_screen_cw_deg": 0.0,
+      "bearing_screen_cw_deg": 0.0
+    },
+    {
+      "anchor_rot_deg": 22.5,
+      "view_rot_deg": -15.0,
+      "azimuth_deg": 90.0,
+      "true_north_screen_cw_deg": 322.5,
+      "bearing_screen_cw_deg": 52.5
+    },
+    {
+      "anchor_rot_deg": -125.25,
+      "view_rot_deg": 45.0,
+      "azimuth_deg": 270.0,
+      "true_north_screen_cw_deg": 170.25,
+      "bearing_screen_cw_deg": 80.25
+    },
+    {
+      "anchor_rot_deg": 212.0,
+      "view_rot_deg": 180.0,
+      "azimuth_deg": 45.0,
+      "true_north_screen_cw_deg": 328.0,
+      "bearing_screen_cw_deg": 13.0
+    }
+  ],
+  "room_and_bearing_vectors": {
+    "anchor_rotation_deg": 22.5,
+    "target_center_m": {
+      "x": 12.0,
+      "y": 9.0
+    },
+    "cases": [
+      {
+        "pt_m": {
+          "x": 4.0,
+          "y": 4.0
+        },
+        "inside_floor": true,
+        "room_name": "Server Room",
+        "to_center_distance_m": 9.433981132056603,
+        "to_center_cardinal": "E"
+      },
+      {
+        "pt_m": {
+          "x": 12.0,
+          "y": 5.0
+        },
+        "inside_floor": true,
+        "room_name": "Reception",
+        "to_center_distance_m": 4.0,
+        "to_center_cardinal": "NE"
+      },
+      {
+        "pt_m": {
+          "x": 20.0,
+          "y": 5.0
+        },
+        "inside_floor": true,
+        "room_name": "Open Office",
+        "to_center_distance_m": 8.94427190999916,
+        "to_center_cardinal": "NW"
+      },
+      {
+        "pt_m": {
+          "x": 5.0,
+          "y": 14.0
+        },
+        "inside_floor": true,
+        "room_name": "Lab North",
+        "to_center_distance_m": 8.602325267042627,
+        "to_center_cardinal": "SE"
+      },
+      {
+        "pt_m": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "inside_floor": true,
+        "room_name": "Server Room",
+        "to_center_distance_m": 15.0,
+        "to_center_cardinal": "E"
+      },
+      {
+        "pt_m": {
+          "x": 20.0,
+          "y": 15.0
+        },
+        "inside_floor": false,
+        "room_name": null,
+        "to_center_distance_m": 10.0,
+        "to_center_cardinal": "W"
+      }
+    ]
+  },
+  "schema_vectors": {
+    "project_v2_1_0": {
+      "schema_version": "2.1.0",
+      "id": "a9bef528-cbb7-48e4-a88a-a85121544767",
+      "name": "Berlin Campus Sample Network",
+      "custom_templates": [
+        {
+          "id": "4623ce33-eba2-4140-a32d-948f06271848",
+          "template_name": "Wi-Fi 6E Tri-Band AP",
+          "component_type": "access_point",
+          "category": "Wireless",
+          "description": "Tri-band 2.4/5/6 GHz enterprise AP with 2.5G PoE uplink + passthrough",
+          "default_name_prefix": "AP6E",
+          "accent_color_hex": "#16A34A",
+          "default_frequencies_ghz": [
+            2.4,
+            5.0,
+            6.0
+          ],
+          "default_ssids": [
+            "Corp-WiFi",
+            "Guest-WiFi"
+          ],
+          "default_custom_attributes": {
+            "vendor": "NetViz",
+            "model": "AP-6E-Pro"
+          },
+          "port_specs": [
+            {
+              "label": "eth0",
+              "port_type": "Base2500",
+              "custom_type_name": null,
+              "speed_mbps": 2500,
+              "poe_capable": true
+            },
+            {
+              "label": "eth1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false
+            }
+          ],
+          "is_builtin": false
+        }
+      ],
+      "components": [
+        {
+          "id": "cd509c9d-0d85-4442-a403-04b24ed617ae",
+          "component_type": "router",
+          "name": "RTR-01",
+          "template_id": "builtin-router",
+          "ip_address": "10.10.0.1",
+          "mac_address": "00:11:22:00:00:01",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "WAN",
+              "port_type": "Base2500",
+              "custom_type_name": null,
+              "speed_mbps": 2500,
+              "poe_capable": false,
+              "id": "768fc449-dbcb-4d0a-9ff2-808495a0690c"
+            },
+            {
+              "label": "LAN1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "6ebfb771-91bb-416e-9342-68ff5aae93b9"
+            },
+            {
+              "label": "LAN2",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "c35792e3-0b48-49bc-8df8-f138da43b461"
+            },
+            {
+              "label": "LAN3",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "029d545d-0618-4109-a576-8b25b2657978"
+            },
+            {
+              "label": "LAN4",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "d081c3c2-1e9c-4162-8a9a-c8a3583be4c1"
+            }
+          ],
+          "logical_pos": {
+            "x": 80.0,
+            "y": 80.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 2.0,
+            "y": 6.0
+          }
+        },
+        {
+          "id": "e53c0cb7-9b79-468e-b691-d1e82591f7cc",
+          "component_type": "firewall",
+          "name": "FW-01",
+          "template_id": "builtin-firewall",
+          "ip_address": "10.10.0.2",
+          "mac_address": "00:11:22:00:00:02",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "WAN",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "58f1cd46-97f9-4f9f-9be2-97ca3cb6067d"
+            },
+            {
+              "label": "LAN",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "312b1d1b-6001-4099-b349-b5a48e30af94"
+            },
+            {
+              "label": "DMZ",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "7836452a-f8a0-424f-88ef-218eeaac6da1"
+            },
+            {
+              "label": "MGMT",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "98c32f00-b52c-4824-a3c6-bf88dd6f74ee"
+            },
+            {
+              "label": "SFP1",
+              "port_type": "SFP",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "714b745b-450d-40b6-a998-b12a8c33bb96"
+            },
+            {
+              "label": "SFP2",
+              "port_type": "SFP",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "948bbdd9-f837-4fce-8e31-99c5f9bfc1c5"
+            }
+          ],
+          "logical_pos": {
+            "x": 320.0,
+            "y": 80.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 3.8,
+            "y": 6.0
+          }
+        },
+        {
+          "id": "6309d3fe-8d4b-42c5-9393-ddf11372b0e0",
+          "component_type": "active_switch",
+          "name": "ASW-01",
+          "template_id": "builtin-active-switch",
+          "ip_address": "10.10.1.10",
+          "mac_address": "00:11:22:00:01:10",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "G1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "877ef5f1-dd9c-4f05-9c4b-c1ec120461a3"
+            },
+            {
+              "label": "G2",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "a37d8ce7-e12b-43b2-92df-38dc319dd8ac"
+            },
+            {
+              "label": "G3",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "8aca7dd9-b650-407f-a766-df5d56c75c53"
+            },
+            {
+              "label": "G4",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "156ac4d0-3412-4d06-ac5f-2a929d085748"
+            },
+            {
+              "label": "G5",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "5d43efa4-41bb-403e-9e20-d14822eef35d"
+            },
+            {
+              "label": "G6",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "93401866-1551-4389-a92e-977c94770608"
+            },
+            {
+              "label": "G7",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "32b3120e-427e-452f-bf79-1be2aea1bcb4"
+            },
+            {
+              "label": "G8",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "b67ae236-43c4-4697-9b72-9c9422f555a6"
+            },
+            {
+              "label": "G9",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "69b48185-9f0c-4684-b3dd-8d56fe0ca582"
+            },
+            {
+              "label": "G10",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "e5193b92-4c41-4279-9a34-ca2d033f621c"
+            },
+            {
+              "label": "G11",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "e9018d66-b50b-42c4-a0df-dd4f23a7ce20"
+            },
+            {
+              "label": "G12",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "23a9a599-5860-48de-8408-c2c132f4af6a"
+            },
+            {
+              "label": "G13",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "8e388e9c-c73d-44ad-96ad-3b69a08cce86"
+            },
+            {
+              "label": "G14",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "90e5f76b-ce5f-4d0b-b045-9442dfeb3106"
+            },
+            {
+              "label": "G15",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "7b902188-38a2-40eb-a0e6-b9155b268378"
+            },
+            {
+              "label": "G16",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "54971635-59a8-4488-851a-c7a5ef2f05f8"
+            },
+            {
+              "label": "G17",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "fdfc0009-daef-4320-83ab-a0ce3a2fcd0e"
+            },
+            {
+              "label": "G18",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "1610331e-f027-4aac-bbf4-31f912464461"
+            },
+            {
+              "label": "G19",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "6d16bc91-6b81-4128-91f3-cf7162b20750"
+            },
+            {
+              "label": "G20",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "1480ea42-76b8-4e84-a1bd-26d4adeb395e"
+            },
+            {
+              "label": "G21",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "9873015e-45c1-432f-83dd-ccb48f0a8326"
+            },
+            {
+              "label": "G22",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "2cba6eb1-ad92-4926-b1af-097f69b78b94"
+            },
+            {
+              "label": "G23",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "15fb89b8-7d4c-4fff-a5a8-85c24f841711"
+            },
+            {
+              "label": "G24",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "d76ba8f6-4a2c-48c5-88c6-8197484bb0a1"
+            },
+            {
+              "label": "SFP+1",
+              "port_type": "SFP_PLUS",
+              "custom_type_name": null,
+              "speed_mbps": 10000,
+              "poe_capable": false,
+              "id": "239efedc-1a91-4fd7-8f67-2a84751cdda3"
+            },
+            {
+              "label": "SFP+2",
+              "port_type": "SFP_PLUS",
+              "custom_type_name": null,
+              "speed_mbps": 10000,
+              "poe_capable": false,
+              "id": "b03d94cd-fa8a-4205-911e-4ed3acf151d9"
+            }
+          ],
+          "logical_pos": {
+            "x": 580.0,
+            "y": 120.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 5.5,
+            "y": 4.5
+          }
+        },
+        {
+          "id": "64aeb884-e6d5-4695-84af-da957b4b7cea",
+          "component_type": "patch_panel",
+          "name": "PP-01",
+          "template_id": "builtin-patch-panel",
+          "ip_address": "",
+          "mac_address": "",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "PP-01",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "e5f31b65-3283-47ec-8334-a7f26f9b15bb"
+            },
+            {
+              "label": "PP-02",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "26b75d9f-ed18-4d92-a326-0979bbda2a48"
+            },
+            {
+              "label": "PP-03",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "150d1126-46d5-4a13-b057-ef697d7223cc"
+            },
+            {
+              "label": "PP-04",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "71f24274-ca92-4bd9-83e2-ad3268206d41"
+            },
+            {
+              "label": "PP-05",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "47782000-d0dc-46a6-993a-ab2eea7f6b45"
+            },
+            {
+              "label": "PP-06",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "be68c4c5-1293-46c2-8219-401f5725ad43"
+            },
+            {
+              "label": "PP-07",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "354d71a3-4d36-44d5-8eea-6efa6d707283"
+            },
+            {
+              "label": "PP-08",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "e4bc345e-5758-45bc-8d9d-9daf286cd34d"
+            },
+            {
+              "label": "PP-09",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "148f5014-3630-436e-8b64-09f59fa2093a"
+            },
+            {
+              "label": "PP-10",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "5c580105-d0fa-4dfe-a53f-4fd6112914a2"
+            },
+            {
+              "label": "PP-11",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "07b32578-dbaa-484b-aa6c-de8dc3fadbeb"
+            },
+            {
+              "label": "PP-12",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "b550133d-9f51-431d-8ce5-2129416339c8"
+            },
+            {
+              "label": "PP-13",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "7c46bc14-bbac-4fb4-9255-265ce739d47c"
+            },
+            {
+              "label": "PP-14",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "1bceeb8d-87b2-4ee0-979e-929376d8789c"
+            },
+            {
+              "label": "PP-15",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "abb40af9-f53c-4582-a10f-c02bcab7c6b9"
+            },
+            {
+              "label": "PP-16",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "10c114d0-8ad8-48c7-a58f-da98020807ab"
+            },
+            {
+              "label": "PP-17",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "53fde36c-d251-4895-81af-6353508db288"
+            },
+            {
+              "label": "PP-18",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "3c8ac95b-d242-4b7d-ac8c-f1e1041aa35f"
+            },
+            {
+              "label": "PP-19",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "1e860ee3-2c59-4a0d-ac2e-5e98cb6b0107"
+            },
+            {
+              "label": "PP-20",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "c1286560-c56c-44e2-9a27-05193a2e7c3e"
+            },
+            {
+              "label": "PP-21",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "3ed277af-6f60-4734-98d2-3fc36b2691cf"
+            },
+            {
+              "label": "PP-22",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "e3e7ddbb-9a94-41ee-b0ff-1a6522bad5b8"
+            },
+            {
+              "label": "PP-23",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "ca33b12a-9b14-4d96-bcf5-fa20c07a1687"
+            },
+            {
+              "label": "PP-24",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "c6f79371-ef6b-4601-99df-76a0cdac7988"
+            }
+          ],
+          "logical_pos": {
+            "x": 580.0,
+            "y": 360.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 3.5,
+            "y": 2.5
+          }
+        },
+        {
+          "id": "8a10b466-050a-4097-bff3-8349497112b9",
+          "component_type": "lwl_converter",
+          "name": "LWL-01",
+          "template_id": "builtin-lwl-converter",
+          "ip_address": "10.10.1.20",
+          "mac_address": "00:11:22:00:01:20",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "RJ45",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "a205b9ba-6a55-462b-90ab-71632e354992"
+            },
+            {
+              "label": "LC-SM",
+              "port_type": "LWL_SM",
+              "custom_type_name": null,
+              "speed_mbps": 10000,
+              "poe_capable": false,
+              "id": "89595de8-7c50-4917-925e-5ff41e1d4b04"
+            }
+          ],
+          "logical_pos": {
+            "x": 900.0,
+            "y": 100.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 6.5,
+            "y": 2.5
+          }
+        },
+        {
+          "id": "ecda04dd-f7b9-478b-b874-1606b744c101",
+          "component_type": "passive_switch",
+          "name": "PSW-01",
+          "template_id": "builtin-passive-switch",
+          "ip_address": "",
+          "mac_address": "",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "P1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "11a7967a-2294-4c41-949a-c287b38ea92a"
+            },
+            {
+              "label": "P2",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "9d09d5bb-d521-406d-95c1-ce1b80f8f865"
+            },
+            {
+              "label": "P3",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "a1a79dac-55df-4aed-85f4-2b3e5b8778aa"
+            },
+            {
+              "label": "P4",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "211aebbc-e6bc-4b31-8f8d-b65b2649f55c"
+            },
+            {
+              "label": "P5",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "51577226-ff52-4d9c-9223-e92bf46c4060"
+            }
+          ],
+          "logical_pos": {
+            "x": 900.0,
+            "y": 340.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "physical_pos_m": {
+            "x": 3.0,
+            "y": 2.5
+          }
+        },
+        {
+          "id": "47e38f57-9398-4990-8043-f79819a9b0f2",
+          "component_type": "access_point",
+          "name": "AP-01",
+          "template_id": "builtin-access-point",
+          "ip_address": "10.10.2.11",
+          "mac_address": "00:11:22:33:44:01",
+          "frequencies_ghz": [
+            2.4,
+            5.0
+          ],
+          "ssids": [
+            "Corp-WiFi",
+            "Guest-WiFi"
+          ],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "eth0",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "92443cff-aac7-4fdf-9344-9063c26256fd"
+            }
+          ],
+          "logical_pos": {
+            "x": 280.0,
+            "y": 500.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "physical_pos_m": {
+            "x": 19.0,
+            "y": 5.0
+          }
+        },
+        {
+          "id": "71f592b7-9fbb-407b-bbe6-9bb9bd94b098",
+          "component_type": "access_point",
+          "name": "AP-02",
+          "template_id": "builtin-access-point",
+          "ip_address": "10.10.2.12",
+          "mac_address": "00:11:22:33:44:02",
+          "frequencies_ghz": [
+            2.4,
+            5.0
+          ],
+          "ssids": [
+            "Corp-WiFi",
+            "Guest-WiFi"
+          ],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "eth0",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": true,
+              "id": "07dbb75c-3a11-4f72-8cc7-afc290df11d5"
+            }
+          ],
+          "logical_pos": {
+            "x": 620.0,
+            "y": 540.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "physical_pos_m": {
+            "x": 12.0,
+            "y": 5.0
+          }
+        },
+        {
+          "id": "bb41824e-92a9-47c8-9633-8982ad6b6d0e",
+          "component_type": "access_point",
+          "name": "AP6E-01",
+          "template_id": "4623ce33-eba2-4140-a32d-948f06271848",
+          "ip_address": "10.10.2.13",
+          "mac_address": "00:11:22:33:44:03",
+          "frequencies_ghz": [
+            2.4,
+            5.0,
+            6.0
+          ],
+          "ssids": [
+            "Corp-WiFi",
+            "Guest-WiFi"
+          ],
+          "custom_attributes": {
+            "vendor": "NetViz",
+            "model": "AP-6E-Pro"
+          },
+          "ports": [
+            {
+              "label": "eth0",
+              "port_type": "Base2500",
+              "custom_type_name": null,
+              "speed_mbps": 2500,
+              "poe_capable": true,
+              "id": "02599224-3338-4bde-91b2-a56a1ad9e926"
+            },
+            {
+              "label": "eth1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "ba36782c-e002-43cb-b9fe-d7dfef9b8b4d"
+            }
+          ],
+          "logical_pos": {
+            "x": 1180.0,
+            "y": 500.0
+          },
+          "physical_building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "physical_floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "physical_pos_m": {
+            "x": 10.5,
+            "y": 6.0
+          }
+        },
+        {
+          "id": "7c832aa1-24d4-441a-a4d7-e66856f57c98",
+          "component_type": "powerlan_adapter",
+          "name": "PLC-01",
+          "template_id": "builtin-powerlan-adapter",
+          "ip_address": "10.10.3.10",
+          "mac_address": "00:11:22:00:03:10",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "ETH1",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "ba9a2a08-5738-4ab6-bfa7-6246ab9d926b"
+            },
+            {
+              "label": "ETH2",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "a8cf8ef0-c02b-469c-867f-0935f2f3408e"
+            },
+            {
+              "label": "PWR",
+              "port_type": "PowerLAN",
+              "custom_type_name": null,
+              "speed_mbps": 1200,
+              "poe_capable": false,
+              "id": "c366a5ee-424d-49ee-a903-00cc40d0ad4f"
+            }
+          ],
+          "logical_pos": {
+            "x": 1180.0,
+            "y": 280.0
+          },
+          "physical_building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "physical_floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "physical_pos_m": {
+            "x": 2.5,
+            "y": 2.5
+          }
+        },
+        {
+          "id": "2e56b108-6808-4311-ad1b-33426605715c",
+          "component_type": "device",
+          "name": "DEV-01",
+          "template_id": "builtin-device",
+          "ip_address": "10.10.10.50",
+          "mac_address": "00:11:22:00:10:50",
+          "frequencies_ghz": [],
+          "ssids": [],
+          "custom_attributes": {},
+          "ports": [
+            {
+              "label": "eth0",
+              "port_type": "Base1000",
+              "custom_type_name": null,
+              "speed_mbps": 1000,
+              "poe_capable": false,
+              "id": "038a145b-c3d4-404f-842e-1029e1de013c"
+            }
+          ],
+          "logical_pos": {
+            "x": 900.0,
+            "y": 540.0
+          },
+          "physical_building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "physical_floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "physical_pos_m": {
+            "x": 20.0,
+            "y": 5.0
+          }
+        }
+      ],
+      "cables": [
+        {
+          "id": "5a4b1ef0-f4bd-4200-bc27-64eefe2d1d48",
+          "source_component_id": "cd509c9d-0d85-4442-a403-04b24ed617ae",
+          "source_port_id": "6ebfb771-91bb-416e-9342-68ff5aae93b9",
+          "target_component_id": "e53c0cb7-9b79-468e-b691-d1e82591f7cc",
+          "target_port_id": "58f1cd46-97f9-4f9f-9be2-97ca3cb6067d",
+          "label": "Uplink-FW",
+          "vlan_id": "1",
+          "style": {
+            "color_hex": "#F59E0B",
+            "pattern": "solid",
+            "width_px": 3.0
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "a5749f7b-9454-42b6-91de-aa70f614810d",
+          "source_component_id": "e53c0cb7-9b79-468e-b691-d1e82591f7cc",
+          "source_port_id": "312b1d1b-6001-4099-b349-b5a48e30af94",
+          "target_component_id": "6309d3fe-8d4b-42c5-9393-ddf11372b0e0",
+          "target_port_id": "877ef5f1-dd9c-4f05-9c4b-c1ec120461a3",
+          "label": "Core-Trunk",
+          "vlan_id": "10",
+          "style": {
+            "color_hex": "#EF4444",
+            "pattern": "solid",
+            "width_px": 3.0
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "4e804568-7760-48d2-838a-0393d1d38f24",
+          "source_component_id": "6309d3fe-8d4b-42c5-9393-ddf11372b0e0",
+          "source_port_id": "a37d8ce7-e12b-43b2-92df-38dc319dd8ac",
+          "target_component_id": "47e38f57-9398-4990-8043-f79819a9b0f2",
+          "target_port_id": "92443cff-aac7-4fdf-9344-9063c26256fd",
+          "label": "PoE-AP01",
+          "vlan_id": "20",
+          "style": {
+            "color_hex": "#22C55E",
+            "pattern": "solid",
+            "width_px": 2.5
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": "f6cae895-5852-4f17-aca8-40cb8acebd77",
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "33581793-be6c-4578-b335-73d3764ec134",
+          "source_component_id": "6309d3fe-8d4b-42c5-9393-ddf11372b0e0",
+          "source_port_id": "8aca7dd9-b650-407f-a766-df5d56c75c53",
+          "target_component_id": "64aeb884-e6d5-4695-84af-da957b4b7cea",
+          "target_port_id": "e5f31b65-3283-47ec-8334-a7f26f9b15bb",
+          "label": "Rack-Patch-01",
+          "vlan_id": "10",
+          "style": {
+            "color_hex": "#38BDF8",
+            "pattern": "solid",
+            "width_px": 2.5
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": "f6cae895-5852-4f17-aca8-40cb8acebd77",
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "408499e2-3ad3-42eb-bbe2-488661d5cdba",
+          "source_component_id": "64aeb884-e6d5-4695-84af-da957b4b7cea",
+          "source_port_id": "26b75d9f-ed18-4d92-a326-0979bbda2a48",
+          "target_component_id": "ecda04dd-f7b9-478b-b874-1606b744c101",
+          "target_port_id": "11a7967a-2294-4c41-949a-c287b38ea92a",
+          "label": "Riser-A-F0-F1",
+          "vlan_id": "10",
+          "style": {
+            "color_hex": "#38BDF8",
+            "pattern": "dashed",
+            "width_px": 2.8
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [
+            {
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "waypoints_m": [
+                {
+                  "x": 3.5,
+                  "y": 2.5
+                },
+                {
+                  "x": 2.0,
+                  "y": 2.0
+                }
+              ],
+              "start_hole_id": null,
+              "end_hole_id": "1cf57a2a-6acb-4169-8202-2e11b9873211"
+            },
+            {
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "waypoints_m": [
+                {
+                  "x": 2.0,
+                  "y": 2.0
+                },
+                {
+                  "x": 3.0,
+                  "y": 2.5
+                }
+              ],
+              "start_hole_id": "4eac5b29-ccd4-42bf-bd31-6017d704523e",
+              "end_hole_id": null
+            }
+          ],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "6e205f11-1369-4869-ac10-05a94a19cd5c",
+          "source_component_id": "ecda04dd-f7b9-478b-b874-1606b744c101",
+          "source_port_id": "9d09d5bb-d521-406d-95c1-ce1b80f8f865",
+          "target_component_id": "71f592b7-9fbb-407b-bbe6-9bb9bd94b098",
+          "target_port_id": "07dbb75c-3a11-4f72-8cc7-afc290df11d5",
+          "label": "F1-AP02",
+          "vlan_id": "20",
+          "style": {
+            "color_hex": "#22C55E",
+            "pattern": "solid",
+            "width_px": 2.5
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "bee511cf-c3e6-4935-b931-e0d92280399a",
+          "source_component_id": "ecda04dd-f7b9-478b-b874-1606b744c101",
+          "source_port_id": "a1a79dac-55df-4aed-85f4-2b3e5b8778aa",
+          "target_component_id": "2e56b108-6808-4311-ad1b-33426605715c",
+          "target_port_id": "038a145b-c3d4-404f-842e-1029e1de013c",
+          "label": "Eng-Workstation",
+          "vlan_id": "10",
+          "style": {
+            "color_hex": "#A855F7",
+            "pattern": "solid",
+            "width_px": 2.2
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "dc8489a3-3580-4e04-9ba5-06f2972b9b1a",
+          "source_component_id": "6309d3fe-8d4b-42c5-9393-ddf11372b0e0",
+          "source_port_id": "156ac4d0-3412-4d06-ac5f-2a929d085748",
+          "target_component_id": "8a10b466-050a-4097-bff3-8349497112b9",
+          "target_port_id": "a205b9ba-6a55-462b-90ab-71632e354992",
+          "label": "Campus-Fiber-Feed",
+          "vlan_id": "30",
+          "style": {
+            "color_hex": "#FACC15",
+            "pattern": "dash_dot",
+            "width_px": 2.5
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        },
+        {
+          "id": "d6acec4e-a019-48f9-bd5e-e62190b9f9aa",
+          "source_component_id": "7c832aa1-24d4-441a-a4d7-e66856f57c98",
+          "source_port_id": "ba9a2a08-5738-4ab6-bfa7-6246ab9d926b",
+          "target_component_id": "bb41824e-92a9-47c8-9633-8982ad6b6d0e",
+          "target_port_id": "02599224-3338-4bde-91b2-a56a1ad9e926",
+          "label": "Warehouse-AP",
+          "vlan_id": "20",
+          "style": {
+            "color_hex": "#10B981",
+            "pattern": "solid",
+            "width_px": 2.5
+          },
+          "logical_waypoints": [],
+          "logical_bundle_id": null,
+          "physical_segments": [],
+          "physical_bundle_id": null
+        }
+      ],
+      "bundles": [
+        {
+          "id": "f6cae895-5852-4f17-aca8-40cb8acebd77",
+          "entry_point": {
+            "x": 520.0,
+            "y": 260.0
+          },
+          "exit_point": {
+            "x": 460.0,
+            "y": 380.0
+          },
+          "name": "Core Rack Bundle",
+          "scope": "logical",
+          "floor_id": null,
+          "waypoints": [],
+          "member_cable_ids": [
+            "4e804568-7760-48d2-838a-0393d1d38f24",
+            "33581793-be6c-4578-b335-73d3764ec134"
+          ],
+          "style": {
+            "color_hex": "#F59E0B",
+            "pattern": "solid",
+            "width_px": 5.5
+          },
+          "collapsed": true
+        }
+      ],
+      "buildings": [
+        {
+          "id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "name": "Building A (HQ)",
+          "geo_anchor": {
+            "origin_lat": 52.52,
+            "origin_lon": 13.405,
+            "rotation_deg": 22.5
+          },
+          "floor_height_m": 3.2,
+          "footprint_latlon": [
+            [
+              52.52,
+              13.405
+            ],
+            [
+              52.51991746373361,
+              13.405326654451402
+            ],
+            [
+              52.52000048880599,
+              13.405383031411395
+            ],
+            [
+              52.52003487891699,
+              13.405246925389976
+            ],
+            [
+              52.520101298974886,
+              13.40529202695797
+            ],
+            [
+              52.52014944513028,
+              13.405101478527985
+            ]
+          ],
+          "floors": [
+            {
+              "id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "name": "Ground Floor",
+              "outer_polygon_m": [
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 24.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 24.0,
+                  "y": 10.0
+                },
+                {
+                  "x": 14.0,
+                  "y": 10.0
+                },
+                {
+                  "x": 14.0,
+                  "y": 18.0
+                },
+                {
+                  "x": 0.0,
+                  "y": 18.0
+                }
+              ],
+              "level_index": 0,
+              "editor_view_rotation_deg": 0.0,
+              "blueprint": null,
+              "rooms": [
+                {
+                  "id": "871b42a3-fec4-4ace-9dd7-d2d3bede5a68",
+                  "name": "Server Room",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 8.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 8.0,
+                      "y": 8.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 8.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E3A5F",
+                  "wall_attenuation_db": 9.0
+                },
+                {
+                  "id": "cb2b2fe4-5250-452e-acb3-b9234e330826",
+                  "name": "Utility",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 8.0
+                    },
+                    {
+                      "x": 8.0,
+                      "y": 8.0
+                    },
+                    {
+                      "x": 8.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 6.0
+                },
+                {
+                  "id": "a826647b-7cc1-4b44-9cc8-116e9ce3ba3c",
+                  "name": "Reception",
+                  "polygon_m": [
+                    {
+                      "x": 8.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 16.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 16.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 8.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 5.0
+                },
+                {
+                  "id": "b4687836-9be2-4432-b2f7-a38e69e73f1d",
+                  "name": "Open Office",
+                  "polygon_m": [
+                    {
+                      "x": 16.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 24.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 24.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 16.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#172554",
+                  "wall_attenuation_db": 4.5
+                },
+                {
+                  "id": "878ce35e-9eaf-42f3-9f69-bcd1d8c2642f",
+                  "name": "Lab North",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 14.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 14.0,
+                      "y": 18.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 18.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 6.5
+                }
+              ],
+              "doors": [
+                {
+                  "id": "64f9bab8-a471-4aa3-9ae3-c571dfd96bd3",
+                  "position_m": {
+                    "x": 12.0,
+                    "y": 0.0
+                  },
+                  "angle_deg": 0.0,
+                  "width_m": 1.4,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "c6c59ff0-0252-45b6-93fe-bcaf891c8d91",
+                  "position_m": {
+                    "x": 8.0,
+                    "y": 4.0
+                  },
+                  "angle_deg": 90.0,
+                  "width_m": 0.9,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "fcfe2e22-f2a4-4803-b2f3-4015a9f76b12",
+                  "position_m": {
+                    "x": 16.0,
+                    "y": 5.0
+                  },
+                  "angle_deg": 90.0,
+                  "width_m": 1.0,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "0716f93d-4157-4cd3-a2d9-17a26f366d47",
+                  "position_m": {
+                    "x": 11.0,
+                    "y": 10.0
+                  },
+                  "angle_deg": 0.0,
+                  "width_m": 1.0,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                }
+              ],
+              "stairs": [
+                {
+                  "id": "b23c9041-b637-4bba-9b09-7c323d4a9b84",
+                  "polygon_m": [
+                    {
+                      "x": 11.0,
+                      "y": 11.0
+                    },
+                    {
+                      "x": 13.6,
+                      "y": 11.0
+                    },
+                    {
+                      "x": 13.6,
+                      "y": 15.0
+                    },
+                    {
+                      "x": 11.0,
+                      "y": 15.0
+                    }
+                  ],
+                  "label": "Main Stairs",
+                  "direction_deg": 90.0
+                }
+              ],
+              "holes": [
+                {
+                  "id": "1cf57a2a-6acb-4169-8202-2e11b9873211",
+                  "position_m": {
+                    "x": 2.0,
+                    "y": 2.0
+                  },
+                  "riser_group_id": "RISER-A",
+                  "label": "Main Fiber Riser",
+                  "radius_m": 0.35
+                }
+              ]
+            },
+            {
+              "id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "name": "1st Floor",
+              "outer_polygon_m": [
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 24.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 24.0,
+                  "y": 10.0
+                },
+                {
+                  "x": 0.0,
+                  "y": 10.0
+                }
+              ],
+              "level_index": 1,
+              "editor_view_rotation_deg": 0.0,
+              "blueprint": null,
+              "rooms": [
+                {
+                  "id": "d6c04dbe-c69b-491f-b22a-0059700b7401",
+                  "name": "IDF Closet",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 5.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E3A5F",
+                  "wall_attenuation_db": 8.0
+                },
+                {
+                  "id": "61781af9-40da-4a7a-9d20-790aedc35f2f",
+                  "name": "Breakout",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 5.0
+                },
+                {
+                  "id": "f7684fe9-e822-40dd-8045-b1f130dae62b",
+                  "name": "Boardroom",
+                  "polygon_m": [
+                    {
+                      "x": 5.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 15.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 15.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#172554",
+                  "wall_attenuation_db": 6.0
+                },
+                {
+                  "id": "9c1b1cbf-a080-43a5-bc0d-c92369776bbd",
+                  "name": "Engineering",
+                  "polygon_m": [
+                    {
+                      "x": 15.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 24.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 24.0,
+                      "y": 10.0
+                    },
+                    {
+                      "x": 15.0,
+                      "y": 10.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 5.0
+                }
+              ],
+              "doors": [
+                {
+                  "id": "e3621399-473e-49a0-8efe-9af3d0873120",
+                  "position_m": {
+                    "x": 5.0,
+                    "y": 2.5
+                  },
+                  "angle_deg": 90.0,
+                  "width_m": 0.9,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "781d2ed7-beab-4287-95e2-51191b4f371e",
+                  "position_m": {
+                    "x": 15.0,
+                    "y": 5.0
+                  },
+                  "angle_deg": 90.0,
+                  "width_m": 1.0,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "cd9837a5-a889-42f9-9106-9655862b846d",
+                  "position_m": {
+                    "x": 2.5,
+                    "y": 5.0
+                  },
+                  "angle_deg": 0.0,
+                  "width_m": 0.9,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                }
+              ],
+              "stairs": [
+                {
+                  "id": "b6190b4b-d32b-409a-8fb7-0660ffe6810f",
+                  "polygon_m": [
+                    {
+                      "x": 11.5,
+                      "y": 5.5
+                    },
+                    {
+                      "x": 14.1,
+                      "y": 5.5
+                    },
+                    {
+                      "x": 14.1,
+                      "y": 9.5
+                    },
+                    {
+                      "x": 11.5,
+                      "y": 9.5
+                    }
+                  ],
+                  "label": "Main Stairs",
+                  "direction_deg": 90.0
+                }
+              ],
+              "holes": [
+                {
+                  "id": "4eac5b29-ccd4-42bf-bd31-6017d704523e",
+                  "position_m": {
+                    "x": 2.0,
+                    "y": 2.0
+                  },
+                  "riser_group_id": "RISER-A",
+                  "label": "Main Fiber Riser",
+                  "radius_m": 0.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "name": "Building B (Warehouse)",
+          "geo_anchor": {
+            "origin_lat": 52.52035,
+            "origin_lon": 13.40555,
+            "rotation_deg": -15.0
+          },
+          "floor_height_m": 4.0,
+          "footprint_latlon": [
+            [
+              52.52035,
+              13.40555
+            ],
+            [
+              52.520387214321424,
+              13.405777682266104
+            ],
+            [
+              52.52049137862516,
+              13.405731926806604
+            ],
+            [
+              52.520454164303736,
+              13.4055042445405
+            ]
+          ],
+          "floors": [
+            {
+              "id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "name": "Ground Floor",
+              "outer_polygon_m": [
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 16.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 16.0,
+                  "y": 12.0
+                },
+                {
+                  "x": 0.0,
+                  "y": 12.0
+                }
+              ],
+              "level_index": 0,
+              "editor_view_rotation_deg": 0.0,
+              "blueprint": null,
+              "rooms": [
+                {
+                  "id": "af02762a-a783-4881-b3ea-7a41e27bbe2b",
+                  "name": "Tech Closet",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 5.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E3A5F",
+                  "wall_attenuation_db": 8.0
+                },
+                {
+                  "id": "d5453b29-5c29-452d-b7fb-79a2fe9823bb",
+                  "name": "Loading Dock",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 12.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 12.0
+                    }
+                  ],
+                  "fill_color_hex": "#1E293B",
+                  "wall_attenuation_db": 5.5
+                },
+                {
+                  "id": "08353a74-76e5-468f-a3b8-9e5347fac450",
+                  "name": "Warehouse Bay",
+                  "polygon_m": [
+                    {
+                      "x": 5.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 16.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 16.0,
+                      "y": 12.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 12.0
+                    }
+                  ],
+                  "fill_color_hex": "#172554",
+                  "wall_attenuation_db": 4.0
+                }
+              ],
+              "doors": [
+                {
+                  "id": "95d9fbac-680d-488c-af27-c315449df939",
+                  "position_m": {
+                    "x": 5.0,
+                    "y": 2.5
+                  },
+                  "angle_deg": 90.0,
+                  "width_m": 0.9,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                },
+                {
+                  "id": "efb6bb6c-2aa3-43d6-8efd-31f83d57e9e3",
+                  "position_m": {
+                    "x": 10.0,
+                    "y": 0.0
+                  },
+                  "angle_deg": 0.0,
+                  "width_m": 2.4,
+                  "swing_flip": false,
+                  "hinge_flip": false
+                }
+              ],
+              "stairs": [],
+              "holes": [
+                {
+                  "id": "d689baef-c10f-4655-bea6-b9f140ff0013",
+                  "position_m": {
+                    "x": 1.5,
+                    "y": 1.5
+                  },
+                  "riser_group_id": "RISER-B",
+                  "label": "Campus Fiber Entry",
+                  "radius_m": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "surveys": [
+        {
+          "id": "8e67158b-f9e1-4f7c-bb18-34fdac7faeb6",
+          "name": "Campus Baseline Walkthrough",
+          "created_utc": "2026-11-25T10:00:00Z",
+          "device_model": "Pixel 8 Pro (Demo Baseline)",
+          "samples": [
+            {
+              "id": "b5c0444d-b24d-43e4-8c63-4b8905387983",
+              "timestamp_utc": "2026-11-25T10:00:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 2.5,
+                "y": 4.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -70,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -66,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "b3d01948-ed1c-4c45-a7bf-29b35a02ac92",
+              "timestamp_utc": "2026-11-25T10:01:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 6.0,
+                "y": 4.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -63,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -59,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "26cbebce-28f0-45e1-bd34-461fb1f49d92",
+              "timestamp_utc": "2026-11-25T10:02:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 9.5,
+                "y": 3.5
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.519996388169886,
+              "gps_lon": 13.405149032656343,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -61,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -57,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "64ffe802-d96d-4362-85ec-f120687c16a5",
+              "timestamp_utc": "2026-11-25T10:03:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 12.5,
+                "y": 5.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.519998524897446,
+              "gps_lon": 13.405198321006768,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -57,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -53,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "31409726-3091-4542-a458-a2b58bc569ad",
+              "timestamp_utc": "2026-11-25T10:04:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 15.0,
+                "y": 5.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.5199899273697,
+              "gps_lon": 13.405232347512122,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -53,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -49,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "0ae46553-cf81-41db-a64a-5900bea166e8",
+              "timestamp_utc": "2026-11-25T10:05:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 18.0,
+                "y": 4.5
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.51997545908278,
+              "gps_lon": 13.405270360470547,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -37,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -33,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "73f16375-5317-4e1d-ba6f-ba26fe40092b",
+              "timestamp_utc": "2026-11-25T10:06:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 21.5,
+                "y": 4.5
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.51996342254393,
+              "gps_lon": 13.405317997578043,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -44,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -40,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "42d6d3b8-ef35-4946-bff5-f4eb3b8b41eb",
+              "timestamp_utc": "2026-11-25T10:07:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 22.0,
+                "y": 8.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -49,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -45,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "4846c714-33d7-4f2f-b714-e6de3bcc13b5",
+              "timestamp_utc": "2026-11-25T10:08:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 17.5,
+                "y": 8.5
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -48,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -44,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "493432a0-0e89-4428-a458-482bea31e214",
+              "timestamp_utc": "2026-11-25T10:09:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 11.0,
+                "y": 12.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -62,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -58,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "4d0938c4-e8f9-490f-8189-3e171c961caf",
+              "timestamp_utc": "2026-11-25T10:10:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 6.0,
+                "y": 14.0
+              },
+              "source": "gps",
+              "gps_lat": 52.52009560103473,
+              "gps_lon": 13.40516059135684,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -70,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -66,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "07d159d9-12f1-4615-96f6-b665dad0993b",
+              "timestamp_utc": "2026-11-25T10:11:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+              "pos_m": {
+                "x": 2.5,
+                "y": 16.0
+              },
+              "source": "gps",
+              "gps_lat": 52.520124242588054,
+              "gps_lon": 13.405124229641341,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -72,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:01",
+                  "rssi_dbm": -68,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "109c8b26-e833-48d5-a778-bb1b4edae44f",
+              "timestamp_utc": "2026-11-25T10:12:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 2.0,
+                "y": 3.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -61,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -57,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "7d2800a4-d1eb-4611-8823-26577f044ae5",
+              "timestamp_utc": "2026-11-25T10:13:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 4.0,
+                "y": 7.5
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -59,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -55,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "7d355d78-0b67-4886-8208-9b4d2211d506",
+              "timestamp_utc": "2026-11-25T10:14:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 7.5,
+                "y": 5.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.520015719952944,
+              "gps_lon": 13.405130267996059,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -49,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -45,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "1390f6ac-331a-40fb-9846-1bc5c858815c",
+              "timestamp_utc": "2026-11-25T10:15:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 11.5,
+                "y": 5.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.52000196390855,
+              "gps_lon": 13.405184710404626,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -36,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -32,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "7e49974c-5fc4-48e4-9ed6-f5b480070df1",
+              "timestamp_utc": "2026-11-25T10:16:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 14.0,
+                "y": 3.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.51997676136632,
+              "gps_lon": 13.405207461517982,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -45,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -41,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "dbc81a6e-8bf2-41b8-9c35-883d69cf539a",
+              "timestamp_utc": "2026-11-25T10:17:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 17.5,
+                "y": 5.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.51998132984195,
+              "gps_lon": 13.405266374017476,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -56,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -52,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "1a21900b-74ec-46fd-adbd-0c677fd3a9f1",
+              "timestamp_utc": "2026-11-25T10:18:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 21.0,
+                "y": 4.0
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -60,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -56,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "fd738e65-a0ec-4fd9-b7c5-7c05af4fe613",
+              "timestamp_utc": "2026-11-25T10:19:00Z",
+              "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+              "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+              "pos_m": {
+                "x": 22.0,
+                "y": 8.5
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -62,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:02",
+                  "rssi_dbm": -58,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "c2caddd4-7c19-434b-a6b4-e3fcb7480304",
+              "timestamp_utc": "2026-11-25T10:20:00Z",
+              "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+              "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "pos_m": {
+                "x": 2.5,
+                "y": 2.5
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -60,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -56,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "cfdb0a43-e0ac-4e47-a24c-93b5b4c5dc0e",
+              "timestamp_utc": "2026-11-25T10:21:00Z",
+              "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+              "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "pos_m": {
+                "x": 6.5,
+                "y": 3.0
+              },
+              "source": "gps",
+              "gps_lat": 52.52039115939401,
+              "gps_lon": 13.40563105705573,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -50,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -46,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "a307814e-9579-493e-a19a-6fb6ec8e9462",
+              "timestamp_utc": "2026-11-25T10:22:00Z",
+              "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+              "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "pos_m": {
+                "x": 10.5,
+                "y": 6.0
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.5204265040503,
+              "gps_lon": 13.405676538757382,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -36,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -32,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "bcc75a21-1902-41e2-9aff-e701f17d696e",
+              "timestamp_utc": "2026-11-25T10:23:00Z",
+              "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+              "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "pos_m": {
+                "x": 13.5,
+                "y": 9.5
+              },
+              "source": "gps_calibrated",
+              "gps_lat": 52.52046386299082,
+              "gps_lon": 13.405705883839921,
+              "gps_accuracy_m": 3.2,
+              "calibration_offset_m": {
+                "x": 1.2,
+                "y": -0.8
+              },
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -49,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -45,
+                  "frequency_mhz": 2412
+                }
+              ]
+            },
+            {
+              "id": "2cfae3e7-1eac-4b90-a21a-d23108628721",
+              "timestamp_utc": "2026-11-25T10:24:00Z",
+              "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+              "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+              "pos_m": {
+                "x": 2.5,
+                "y": 9.5
+              },
+              "source": "manual",
+              "gps_lat": null,
+              "gps_lon": null,
+              "gps_accuracy_m": null,
+              "calibration_offset_m": null,
+              "readings": [
+                {
+                  "ssid": "Corp-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -60,
+                  "frequency_mhz": 5180
+                },
+                {
+                  "ssid": "Guest-WiFi",
+                  "bssid": "00:11:22:33:44:03",
+                  "rssi_dbm": -56,
+                  "frequency_mhz": 2412
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "map_preferences": {
+        "preferred_provider": "google",
+        "offline_cache_margin_m": 250.0,
+        "offline_cache_zooms": [
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    "project_v2_0_0_legacy": {
+      "schema_version": "2.0.0",
+      "id": "legacy-v200-proj",
+      "name": "Legacy v2.0.0 Campus",
+      "components": [
+        {
+          "id": "comp-ap-1",
+          "component_type": "access_point",
+          "name": "AP-01",
+          "mac_address": "AA:BB:CC:DD:EE:01",
+          "ssids": [
+            "Legacy-WiFi"
+          ],
+          "ports": [
+            {
+              "id": "port-1",
+              "label": "eth0",
+              "port_type": "Base1000"
+            }
+          ],
+          "logical_pos": {
+            "x": 50.0,
+            "y": 80.0
+          }
+        }
+      ],
+      "cables": [],
+      "buildings": [
+        {
+          "id": "bldg-1",
+          "name": "Old Hall",
+          "geo_anchor": {
+            "origin_lat": 52.52,
+            "origin_lon": 13.405,
+            "rotation_deg": 0.0
+          },
+          "footprint_latlon": [
+            [
+              52.52,
+              13.405
+            ],
+            [
+              52.52,
+              13.40515
+            ],
+            [
+              52.52009,
+              13.40515
+            ],
+            [
+              52.52009,
+              13.405
+            ]
+          ],
+          "floors": [
+            {
+              "id": "floor-1",
+              "name": "Ground",
+              "level_index": 0,
+              "outer_polygon_m": [
+                {
+                  "x": 0.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 10.0,
+                  "y": 0.0
+                },
+                {
+                  "x": 10.0,
+                  "y": 10.0
+                },
+                {
+                  "x": 0.0,
+                  "y": 10.0
+                }
+              ],
+              "rooms": [
+                {
+                  "id": "room-1",
+                  "name": "Lobby",
+                  "polygon_m": [
+                    {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 0.0
+                    },
+                    {
+                      "x": 5.0,
+                      "y": 5.0
+                    },
+                    {
+                      "x": 0.0,
+                      "y": 5.0
+                    }
+                  ]
+                }
+              ],
+              "doors": [
+                {
+                  "id": "door-1",
+                  "position_m": {
+                    "x": 2.5,
+                    "y": 0.0
+                  },
+                  "angle_deg": 0.0,
+                  "width_m": 0.9
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "surveys": []
+    },
+    "survey_session": {
+      "id": "8e67158b-f9e1-4f7c-bb18-34fdac7faeb6",
+      "name": "Campus Baseline Walkthrough",
+      "created_utc": "2026-11-25T10:00:00Z",
+      "device_model": "Pixel 8 Pro (Demo Baseline)",
+      "samples": [
+        {
+          "id": "b5c0444d-b24d-43e4-8c63-4b8905387983",
+          "timestamp_utc": "2026-11-25T10:00:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 2.5,
+            "y": 4.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -70,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -66,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "b3d01948-ed1c-4c45-a7bf-29b35a02ac92",
+          "timestamp_utc": "2026-11-25T10:01:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 6.0,
+            "y": 4.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -63,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -59,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "26cbebce-28f0-45e1-bd34-461fb1f49d92",
+          "timestamp_utc": "2026-11-25T10:02:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 9.5,
+            "y": 3.5
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.519996388169886,
+          "gps_lon": 13.405149032656343,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -61,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -57,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "64ffe802-d96d-4362-85ec-f120687c16a5",
+          "timestamp_utc": "2026-11-25T10:03:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 12.5,
+            "y": 5.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.519998524897446,
+          "gps_lon": 13.405198321006768,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -57,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -53,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "31409726-3091-4542-a458-a2b58bc569ad",
+          "timestamp_utc": "2026-11-25T10:04:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 15.0,
+            "y": 5.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.5199899273697,
+          "gps_lon": 13.405232347512122,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -53,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -49,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "0ae46553-cf81-41db-a64a-5900bea166e8",
+          "timestamp_utc": "2026-11-25T10:05:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 18.0,
+            "y": 4.5
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.51997545908278,
+          "gps_lon": 13.405270360470547,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -37,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -33,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "73f16375-5317-4e1d-ba6f-ba26fe40092b",
+          "timestamp_utc": "2026-11-25T10:06:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 21.5,
+            "y": 4.5
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.51996342254393,
+          "gps_lon": 13.405317997578043,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -44,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -40,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "42d6d3b8-ef35-4946-bff5-f4eb3b8b41eb",
+          "timestamp_utc": "2026-11-25T10:07:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 22.0,
+            "y": 8.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -49,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -45,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "4846c714-33d7-4f2f-b714-e6de3bcc13b5",
+          "timestamp_utc": "2026-11-25T10:08:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 17.5,
+            "y": 8.5
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -48,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -44,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "493432a0-0e89-4428-a458-482bea31e214",
+          "timestamp_utc": "2026-11-25T10:09:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 11.0,
+            "y": 12.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -62,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -58,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "4d0938c4-e8f9-490f-8189-3e171c961caf",
+          "timestamp_utc": "2026-11-25T10:10:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 6.0,
+            "y": 14.0
+          },
+          "source": "gps",
+          "gps_lat": 52.52009560103473,
+          "gps_lon": 13.40516059135684,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -70,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -66,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "07d159d9-12f1-4615-96f6-b665dad0993b",
+          "timestamp_utc": "2026-11-25T10:11:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "557004fe-3540-4bc6-bedc-65236fab6eba",
+          "pos_m": {
+            "x": 2.5,
+            "y": 16.0
+          },
+          "source": "gps",
+          "gps_lat": 52.520124242588054,
+          "gps_lon": 13.405124229641341,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -72,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:01",
+              "rssi_dbm": -68,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "109c8b26-e833-48d5-a778-bb1b4edae44f",
+          "timestamp_utc": "2026-11-25T10:12:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 2.0,
+            "y": 3.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -61,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -57,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "7d2800a4-d1eb-4611-8823-26577f044ae5",
+          "timestamp_utc": "2026-11-25T10:13:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 4.0,
+            "y": 7.5
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -59,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -55,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "7d355d78-0b67-4886-8208-9b4d2211d506",
+          "timestamp_utc": "2026-11-25T10:14:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 7.5,
+            "y": 5.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.520015719952944,
+          "gps_lon": 13.405130267996059,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -49,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -45,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "1390f6ac-331a-40fb-9846-1bc5c858815c",
+          "timestamp_utc": "2026-11-25T10:15:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 11.5,
+            "y": 5.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.52000196390855,
+          "gps_lon": 13.405184710404626,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -36,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -32,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "7e49974c-5fc4-48e4-9ed6-f5b480070df1",
+          "timestamp_utc": "2026-11-25T10:16:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 14.0,
+            "y": 3.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.51997676136632,
+          "gps_lon": 13.405207461517982,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -45,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -41,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "dbc81a6e-8bf2-41b8-9c35-883d69cf539a",
+          "timestamp_utc": "2026-11-25T10:17:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 17.5,
+            "y": 5.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.51998132984195,
+          "gps_lon": 13.405266374017476,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -56,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -52,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "1a21900b-74ec-46fd-adbd-0c677fd3a9f1",
+          "timestamp_utc": "2026-11-25T10:18:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 21.0,
+            "y": 4.0
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -60,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -56,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "fd738e65-a0ec-4fd9-b7c5-7c05af4fe613",
+          "timestamp_utc": "2026-11-25T10:19:00Z",
+          "building_id": "14dc4e50-15f9-4221-a082-2d32ea2f0874",
+          "floor_id": "15862db8-cbc8-48d4-974c-db03289a1c6e",
+          "pos_m": {
+            "x": 22.0,
+            "y": 8.5
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -62,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:02",
+              "rssi_dbm": -58,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "c2caddd4-7c19-434b-a6b4-e3fcb7480304",
+          "timestamp_utc": "2026-11-25T10:20:00Z",
+          "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "pos_m": {
+            "x": 2.5,
+            "y": 2.5
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -60,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -56,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "cfdb0a43-e0ac-4e47-a24c-93b5b4c5dc0e",
+          "timestamp_utc": "2026-11-25T10:21:00Z",
+          "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "pos_m": {
+            "x": 6.5,
+            "y": 3.0
+          },
+          "source": "gps",
+          "gps_lat": 52.52039115939401,
+          "gps_lon": 13.40563105705573,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -50,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -46,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "a307814e-9579-493e-a19a-6fb6ec8e9462",
+          "timestamp_utc": "2026-11-25T10:22:00Z",
+          "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "pos_m": {
+            "x": 10.5,
+            "y": 6.0
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.5204265040503,
+          "gps_lon": 13.405676538757382,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -36,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -32,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "bcc75a21-1902-41e2-9aff-e701f17d696e",
+          "timestamp_utc": "2026-11-25T10:23:00Z",
+          "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "pos_m": {
+            "x": 13.5,
+            "y": 9.5
+          },
+          "source": "gps_calibrated",
+          "gps_lat": 52.52046386299082,
+          "gps_lon": 13.405705883839921,
+          "gps_accuracy_m": 3.2,
+          "calibration_offset_m": {
+            "x": 1.2,
+            "y": -0.8
+          },
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -49,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -45,
+              "frequency_mhz": 2412
+            }
+          ]
+        },
+        {
+          "id": "2cfae3e7-1eac-4b90-a21a-d23108628721",
+          "timestamp_utc": "2026-11-25T10:24:00Z",
+          "building_id": "6dd8861c-1f8c-4b8d-87b4-23bf3296f803",
+          "floor_id": "05400041-3b3a-4636-8e4b-88f100c63758",
+          "pos_m": {
+            "x": 2.5,
+            "y": 9.5
+          },
+          "source": "manual",
+          "gps_lat": null,
+          "gps_lon": null,
+          "gps_accuracy_m": null,
+          "calibration_offset_m": null,
+          "readings": [
+            {
+              "ssid": "Corp-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -60,
+              "frequency_mhz": 5180
+            },
+            {
+              "ssid": "Guest-WiFi",
+              "bssid": "00:11:22:33:44:03",
+              "rssi_dbm": -56,
+              "frequency_mhz": 2412
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

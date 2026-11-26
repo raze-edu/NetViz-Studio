@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NetViz Studio — Geo Map</title>
+  <link rel="stylesheet" href="vendor/leaflet.css" />
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #0B1120;
+      color: #F8FAFC;
+      font-family: "Segoe UI", "Inter", sans-serif;
+    }
+    #map-root {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .map-layer {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+    }
+    .map-layer.active {
+      display: block;
+    }
+    #canvas-fallback {
+      background: #0F172A;
+      cursor: grab;
+    }
+    #map-hud {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 1200;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      background: rgba(15, 23, 42, 0.90);
+      border: 1px solid #334155;
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 12px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+      pointer-events: auto;
+    }
+    .hud-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: #1E293B;
+      border: 1px solid #334155;
+      color: #CBD5E1;
+      font-weight: 600;
+    }
+    .hud-pill.accent {
+      border-color: #38BDF8;
+      color: #38BDF8;
+    }
+    .hud-pill.warn {
+      border-color: #F59E0B;
+      color: #FCD34D;
+    }
+    .hud-btn {
+      background: #0284C7;
+      color: #FFFFFF;
+      border: 1px solid #38BDF8;
+      border-radius: 5px;
+      padding: 3px 9px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .hud-btn.secondary {
+      background: #1E293B;
+      border-color: #475569;
+      color: #E2E8F0;
+    }
+    .hud-btn:hover {
+      filter: brightness(1.12);
+    }
+    #trace-controls {
+      display: none;
+      align-items: center;
+      gap: 6px;
+    }
+    #trace-controls.visible {
+      display: inline-flex;
+    }
+    #rotate-tooltip {
+      position: absolute;
+      display: none;
+      z-index: 1400;
+      pointer-events: none;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid #F59E0B;
+      color: #FDE68A;
+      border-radius: 5px;
+      padding: 3px 7px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .nv-move-handle {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: rgba(56, 189, 248, 0.95);
+      border: 2px solid #FFFFFF;
+      box-shadow: 0 0 8px rgba(56, 189, 248, 0.9);
+      cursor: move;
+    }
+    .nv-rotate-handle {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: rgba(245, 158, 11, 0.95);
+      border: 2px solid #FFFFFF;
+      box-shadow: 0 0 8px rgba(245, 158, 11, 0.9);
+      cursor: grab;
+    }
+    .nv-bldg-label {
+      background: rgba(15, 23, 42, 0.88);
+      border: 1px solid #38BDF8;
+      color: #F8FAFC;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <div id="map-root">
+    <div id="leaflet-map" class="map-layer"></div>
+    <div id="google-map" class="map-layer"></div>
+    <canvas id="canvas-fallback" class="map-layer"></canvas>
+
+    <div id="map-hud">
+      <span id="hud-provider" class="hud-pill accent">Engine: Initializing...</span>
+      <span id="hud-mode" class="hud-pill">Mode: Pan &amp; Select</span>
+      <span id="hud-coords" class="hud-pill">52.520000, 13.405000</span>
+      <span id="trace-controls">
+        <button id="btn-trace-finish" class="hud-btn" type="button">Finish Polygon</button>
+        <button id="btn-trace-undo" class="hud-btn secondary" type="button">Undo</button>
+        <button id="btn-trace-cancel" class="hud-btn secondary" type="button">Cancel</button>
+      </span>
+      <span id="place-controls" style="display:none;">
+        <button id="btn-place-cancel" class="hud-btn secondary" type="button">Cancel Place</button>
+      </span>
+    </div>
+
+    <div id="rotate-tooltip">0.0°</div>
+  </div>
+
+  <script src="qrc:///qtwebchannel/qwebchannel.js"></script>
+  <script src="vendor/leaflet.js"></script>
+  <script src="map_controller.js"></script>
+</body>
+</html>

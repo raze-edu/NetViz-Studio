@@ -1,0 +1,17 @@
+[project]
+name = "netviz-studio"
+version = "2.1.0"
+description = "Offline-first logical/physical network CAD, geo-mapping, and Wi-Fi field survey suite"
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

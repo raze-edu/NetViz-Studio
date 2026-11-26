@@ -1,0 +1,29 @@
+# Python & Virtual Environments
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+
+# Portable Android Toolchain Cache (auto-bootstrapped by android_app/build_apk.ps1)
+.toolchains/
+
+# Android Gradle & Build Artifacts
+android_app/.gradle/
+android_app/app/build/
+android_app/build/
+android_app/local.properties
+*.apk
+*.aab
+
+# OS & Editor Noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
